@@ -24,7 +24,7 @@ To propose additions, modifications, provide comments, or if you are interested 
 - **Center(s) for accelerator and beam modeling** - *Jean-Luc Vay, David Bruhwiler, David Sagan, Axel Huebl*
 - **Plasma acceleration theory and simulation needs** - *Carl Schroeder, Warren Mori, Carlo Benedetti, Eric Esarey, A. Huebl, Rémi Lehe, Jean-Luc Vay*
 - **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Rémi Lehe, Maxence Thévenet, Jean-Luc Vay*
-- **Poisson solver library** - Ji Qiang, ... [to be confirmed]
+- **Parallel Poisson solver library for accelerator applications - Ji Qiang, He Zhang, ....
 - **Particle-In-Cell library/testbed** - F. Tsung, ... [to be confirmed]
 - **Physics-based high brightness beam injector modeling** — *Chengkun Huang, Cho Ng, Tom Kwan,  Vitaly Pavlenko*
 
